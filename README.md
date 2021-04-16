@@ -1,2 +1,2 @@
-# CVPR-NTIRE2021-Depth-Guided-Image-Any-to-Any-Relighting-S3Net
-The 3rd place solution to 2021 Depth Guided Any-to-any relighting challenge
+# NTIRE2021-CVPR-Depth-Guided-Image-One-to-One-Relighting-MBNet
+The 1st place solution to CVPR 2021 NTIRE Depth Guided Image One-to-One Relighting MBNet
