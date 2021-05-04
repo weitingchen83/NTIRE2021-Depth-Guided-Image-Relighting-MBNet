@@ -9,7 +9,9 @@ Image relighting aims to recalibrate the illumination setting in an image. In th
 
 We will provide the codes and pre-train models (coming soon !!!)
 
-[[Paper Download]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660749.pdf  [CVPRW2021, Accepted]
+The paper has been accepted by CVPRW 2021.
+
+[[Paper Download]](http://arxiv.org/abs/2105.00690)
 
 ### Relit Images
 
