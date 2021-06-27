@@ -17,7 +17,7 @@ The paper has been accepted by CVPRW 2021.
 
 [Here](https://github.com/majedelhelou/VIDIT) is the original images from VIDIT dataset
 
-We also provide the relit images by our MB-Net: [val](https://drive.google.com/file/d/1IpsXRMY4xTjYyAUJLEQI-UFQQf0HvLl7/view?usp=sharing) and [test](https://reurl.cc/GdaGky).
+We also provide the relit images by our MB-Net: [val](https://drive.google.com/file/d/1ceMjPHX-H97Ub7bhpbkSEnXw3xAI0k2U/view?usp=sharing) and [test](https://reurl.cc/NX2Nak).
 
 ### Another solution (*3rd* Solution, NTIRE 2021 Depth Guided Relighting Challenge Track 2: Any-to-any relighting) of our team: 
 
