@@ -7,11 +7,30 @@ Image relighting aims to recalibrate the illumination setting in an image. In th
 
 <p align="center"><img width="80%" src="image/ex.png" /></p>
 
-We will provide the codes and pre-train models (coming soon !!!)
-
 The paper has been accepted by CVPRW 2021.
 
 [[Paper Download]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_Multi-Modal_Bifurcated_Network_for_Depth_Guided_Image_Relighting_CVPRW_2021_paper.pdf)
+
+### Testing
+#### 1. Cloning the repository
+```bash
+$ git clone https://github.com/weitingchen83/NTIRE2021-Depth-Guided-Image-Relighting-MBNet
+$ cd NTIRE2021-Depth-Guided-Image-Relighting-MBNet
+```
+#### 2. Download the pre-trained [model](https://drive.google.com/file/d/1x5UKgZ6DgcIGnmp1wATAfxDDZN5fwEQo/view?usp=sharing) and testing images
+
+Put model weights into model/ <br />
+Put images into test/ <br />
+Images contain guide and input folders <br />
+
+#### 3. Testing
+```bash
+    cd code
+    python demo.py --input_data_path <'input' folder> --output_dir <output folder> --name <folder name in output folder> --model_path <pre_trained model path>
+
+    Ex:
+    python demo.py --input_data_path ../test --output_dir ../submit_result --name test --model_path ../model/weight.pkl
+```
 
 ### Relit Images
 
